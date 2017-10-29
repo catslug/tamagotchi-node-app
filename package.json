@@ -1,0 +1,25 @@
+{
+  "name": "tamagotchi-node-app",
+  "version": "1.0.0",
+  "description": "command line interactive tamagotchi digital pet",
+  "main": "tamagotchi.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/catslug/tamagotchi-node-app.git"
+  },
+  "keywords": [
+    "tamagotchi"
+  ],
+  "author": "Lindsay Wall",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/catslug/tamagotchi-node-app/issues"
+  },
+  "homepage": "https://github.com/catslug/tamagotchi-node-app#readme",
+  "dependencies": {
+    "inquirer": "^3.3.0"
+  }
+}
